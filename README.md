@@ -1,0 +1,1 @@
+This project was created as part of my DBMS Lab project. I developed this project using ReactJS, NodeJs and MySql. It involved authentication, category listing, information and reviewing by users. Backend APIs was were made using 'mysql2' package and the database was extracted from the OMDB API.
